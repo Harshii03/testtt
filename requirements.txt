@@ -1,4 +1,3 @@
-
-gunicorn==20.1.0
 flask
-python-libtorrent
+webtorrent
+aiohttp
